@@ -15,6 +15,7 @@ import java.util.Scanner; // Este es el importe de la clase Scanner
     Scanner leer2 = new Scanner(System.in);
         int edad = leer2.nextInt();
         System.out.println("Wow! "+edad+ " años");
+        System.out.println("Este es el ultimo paso quiero ver si subo los cambios");
     
     }
 
