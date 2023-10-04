@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 Jenkinsfile (Declarative Pipeline)
 /* Requires the Docker Pipeline plugin */
 pipeline {
