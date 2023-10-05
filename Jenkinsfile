@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'Hello world!'
+emailext body: 'nothing to say just, this is a testing email ', subject: 'Jenkins Alert', to: 'gilsanto1360@gmail.com'
             }
         }
     }
